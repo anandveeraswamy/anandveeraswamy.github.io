@@ -5,7 +5,7 @@ body { background-color: #00005D;
 	width: 80%;
 	min-width: 960px; max-width: 1200px;
 	background-color: #B3C7E6;
-	color: #000066; 
+	color: #000066;
 }
 header { background-color: #869DC7;
 	color: #00005D;
@@ -21,13 +21,13 @@ header a:hover { color: #FFFFFF; }
 nav { float: right;
 	width: 200px;
 	font-weight: bold;
-	letter-spacing: 0.1em; 
+	letter-spacing: 0.1em;
 }
 main { background-color: #FFFFFF;
 	color: #000000;
-	padding: 10px 20px; 
+	padding: 10px 20px;
 	display: block;
-	overflow: auto; 
+	overflow: auto;
 }
 footer { font-size: 70%;
 	text-align: center;
@@ -44,9 +44,10 @@ nav a { text-decoration: none;
 	padding: 20px;
 	display: block;
 	background-color: #B3C7E6;
-	border-bottom: 1px solid #FFFFFF; 
+	border-bottom: 1px solid #FFFFFF;
 }
 nav a:link { color: #FFFFFF; }
 nav a:visited { color: #EAEAEA; }
 nav a:hover { color: #869DC7;
 	background-color: #EAEAEA; }
+	/* Made a cahnge here as well *?
